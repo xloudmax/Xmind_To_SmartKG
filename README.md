@@ -1,8 +1,8 @@
-# KGbot_converter
+# SmartKGbot_converter
 # Markdown 转 Excel 脚本
 
 ## 概述
-请现将xmind文件转换为markdown文件（xmind本体导出）
+请先将xmind文件转换为markdown文件（xmind本体导出）
 该脚本用于解析 Markdown 文件，提取文件结构并将其转换为 Excel 格式。它会识别标题、定义、命题等元素，并将它们组织成一个包含实体、关系等信息的 Excel 文件。
 
 ## 使用方法
